@@ -9,10 +9,10 @@
 
 ## 📚 Currently Learning
 - Machine Learning (Daily Practice)
-- Backend Development (Node.js)
+- DSA
 
 ## 💡 Skills
-Python | JavaScript | Node.js | ML | Data Analysis
+Python | ML | SQL | Data Analysis | GCP | n8n | 
 
 ## 📫 Connect with me
 - www.linkedin.com/in/ankit-nagar-
