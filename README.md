@@ -106,16 +106,14 @@ Problem-solving practice organized by pattern:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitpyj&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitpyj&theme=default" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ankitpyj&show_icons=true&theme=default" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpyj&layout=compact&theme=default" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitpyj&layout=compact&theme=default" />
 </p>
 
-> Note: the stats cards above are rendered by a free third-party service (github-readme-stats.vercel.app) that occasionally rate-limits or goes down — if a card shows broken/blank on your profile, it's usually temporary. If it stays broken, the community-hosted alternative below tends to have better uptime:
-> `https://github-readme-stats-sigma-five.vercel.app/api?username=ankitpyj&show_icons=true`
+> These cards use **github-stats-extended.vercel.app**, the actively maintained successor to the old github-readme-stats service (the original public instance was paused by its maintainer). If a card ever looks broken, it's worth checking [the project's status](https://github.com/stats-organization/github-stats-extended) first.
 
 ---
 
@@ -123,7 +121,7 @@ Problem-solving practice organized by pattern:
 
 <p align="center">
   <a href="https://leetcode.com/u/_ankit_nagar/">
-    <img src="https://leetcode-stats-card.vercel.app/?username=_ankit_nagar" alt="_ankit_nagar's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/_ankit_nagar?theme=dark&font=Fira%20Code" alt="_ankit_nagar's LeetCode Stats" />
   </a>
 </p>
 
