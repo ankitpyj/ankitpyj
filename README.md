@@ -113,7 +113,7 @@ Problem-solving practice organized by pattern:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitpyj&layout=compact&theme=default" />
 </p>
 
-> These cards use **github-stats-extended.vercel.app**, the actively maintained successor to the old github-readme-stats service (the original public instance was paused by its maintainer). If a card ever looks broken, it's worth checking [the project's status](https://github.com/stats-organization/github-stats-extended) first.
+
 
 ---
 
