@@ -68,6 +68,14 @@ Problem-solving practice organized by pattern:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**AI / LLM Tooling** *(from the rag_cpu project)*
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+
 **Cloud & Automation**
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -86,6 +94,8 @@ Problem-solving practice organized by pattern:
 - 🤖 **Machine Learning fundamentals** — regression, classification, and clustering through daily hands-on notebooks
 - 📊 **Exploratory Data Analysis** — visualizing and understanding data before modeling
 - 🧩 **Data Structures & Algorithms** — pattern-based problem solving (arrays, two pointers, stacks, binary search)
+- 🧠 **RAG (Retrieval-Augmented Generation) & LLM pipelines** — picked up while building rag_cpu: vector stores (ChromaDB), fact-checking retrieved context, and orchestrating LLM calls with LangChain
+- 🗣️ **Speech-to-text & diarization** — exploring WhisperX for transcribing and separating speakers in audio, entirely on CPU
 - ☁️ **Google Cloud Platform (GCP)** — cloud fundamentals for deploying ML/data projects
 - ⚙️ **n8n** — workflow automation for AI and data pipelines
 - 🗄️ **SQL** — querying and working with structured data
