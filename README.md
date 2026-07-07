@@ -106,14 +106,14 @@ Problem-solving practice organized by pattern:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ankitpyj&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ankitpyj&show_icons=true&theme=default&rank_icon=percentile" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ankitpyj&layout=compact&theme=default" />
 </p>
 
-
+> These cards use **github-stats-extended.vercel.app**, the actively maintained successor to the old github-readme-stats service (the original public instance was paused by its maintainer). If a card ever looks broken, it's worth checking [the project's status](https://github.com/stats-organization/github-stats-extended) first.
 
 ---
 
@@ -137,5 +137,9 @@ Problem-solving practice organized by pattern:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_ankit_nagar/)
 
 <sub>⭐️ Learning in public, one notebook and one problem at a time.</sub>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ankitpyj&label=Profile%20Views&color=2F80ED&style=flat)
 
 </div>
