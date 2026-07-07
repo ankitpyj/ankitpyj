@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-nagar-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitpyj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_ankit_nagar/)
 
 </div>
 
@@ -105,13 +106,28 @@ Problem-solving practice organized by pattern:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitpyj&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpyj&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitpyj&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitpyj&theme=default" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpyj&layout=compact&theme=default" />
 </p>
+
+> Note: the stats cards above are rendered by a free third-party service (github-readme-stats.vercel.app) that occasionally rate-limits or goes down — if a card shows broken/blank on your profile, it's usually temporary. If it stays broken, the community-hosted alternative below tends to have better uptime:
+> `https://github-readme-stats-sigma-five.vercel.app/api?username=ankitpyj&show_icons=true`
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/_ankit_nagar/">
+    <img src="https://leetcode-stats-card.vercel.app/?username=_ankit_nagar" alt="_ankit_nagar's LeetCode Stats" />
+  </a>
+</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_ankit_nagar/)
 
 ---
 
@@ -120,6 +136,7 @@ Problem-solving practice organized by pattern:
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-nagar-)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_ankit_nagar/)
 
 <sub>⭐️ Learning in public, one notebook and one problem at a time.</sub>
 
